@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kyle! <br/><a href="https://github.com/joshmadakor1"></a>, <a href="https://www.linkedin.com/in/joshmadakor/">Artificial Intelligence/Machine Learning Concentration</a> <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
+<h1>Hi, I'm Kyle! <br/><a href="https://github.com/joshmadakor1"></a> <a href="https://www.linkedin.com/in/joshmadakor/">Artificial Intelligence/Machine Learning Concentration</a> <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
